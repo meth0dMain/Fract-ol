@@ -1,10 +1,10 @@
 # Fract-ol
 small fractal exploration program - only mac
 
-![](images/1.png)
+<img src="images/1.png" width="700" >
 
-![](images/2.png)
+<img src="images/2.png" width="700" >
 
-![](images/3.png)
+<img src="images/3.png" width="700" >
 
-![](images/4.png)
+<img src="images/4.png" width="700" >
