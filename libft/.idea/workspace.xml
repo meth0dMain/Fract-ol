@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Libft_copy" targetName="Libft_copy" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dd3d8d3-524f-4189-9ff1-7ee4c080134b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="Libft_copy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ft_strclr</find>
+      <find>INT_MAX</find>
+      <find>__INT_MAX__</find>
+      <find>abs</find>
+      <find>strmap</find>
+      <find>t_assert</find>
+      <find>f3</find>
+      <find>str_to_code_sentence</find>
+      <find>main</find>
+      <find>Strnstr</find>
+      <find>STRNSTR_TEST</find>
+      <find>ft_strchr_pos</find>
+      <find>free</find>
+      <find>strlcat</find>
+      <find>res</find>
+      <find>lstdel</find>
+      <find>ft_print_result</find>
+      <find>ft_del</find>
+      <find>get_next</find>
+      <find>line</find>
+      <find>ft_mema</find>
+      <find>itoa</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ft_strrchr.c" />
+        <option value="$PROJECT_DIR$/ft_strstr.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strsub.c" />
+        <option value="$PROJECT_DIR$/ft_strdup.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strdup.c" />
+        <option value="$PROJECT_DIR$/ft_strjoin.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strjoin.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strsplit.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strlcat.c" />
+        <option value="$PROJECT_DIR$/ft_strlcat.c" />
+        <option value="$PROJECT_DIR$/ft_striteri.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_striteri.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_striter.c" />
+        <option value="$PROJECT_DIR$/ft_memalloc.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_memalloc.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_memset.c" />
+        <option value="$PROJECT_DIR$/ft_memset.c" />
+        <option value="$PROJECT_DIR$/ft_bzero.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_bzero.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strnew.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstnew.c" />
+        <option value="$PROJECT_DIR$/ft_lstnew.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstadd.c" />
+        <option value="$PROJECT_DIR$/ft_lstdelone.c" />
+        <option value="$PROJECT_DIR$/ft_lstdel.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstdel.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstdelone.c" />
+        <option value="$PROJECT_DIR$/ft_striter.c" />
+        <option value="$PROJECT_DIR$/ft_lstadd.c" />
+        <option value="$PROJECT_DIR$/ft_lstiter.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstiter.c" />
+        <option value="$PROJECT_DIR$/ft_strnstr.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strnstr.c" />
+        <option value="$PROJECT_DIR$/ft_itoa.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_strchr.c" />
+        <option value="$PROJECT_DIR$/ft_strchr.c" />
+        <option value="$PROJECT_DIR$/ft_strmapi.c" />
+        <option value="$PROJECT_DIR$/ft_lstmap.c" />
+        <option value="$PROJECT_DIR$/../Libft/ft_lstmap.c" />
+        <option value="$PROJECT_DIR$/ft_strsub.c" />
+        <option value="$PROJECT_DIR$/ft_strnew.c" />
+        <option value="$PROJECT_DIR$/ft_atoi.c" />
+        <option value="$PROJECT_DIR$/ft_memmove.c" />
+        <option value="$PROJECT_DIR$/ft_strsplit.c" />
+        <option value="$USER_HOME$/Downloads/main.c" />
+        <option value="$PROJECT_DIR$/ft_strcpy.c" />
+        <option value="$PROJECT_DIR$/get_next_line.c" />
+        <option value="$PROJECT_DIR$/../get_next_line/get_next_line.h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/../Libft/libft.h" />
+        <option value="$PROJECT_DIR$/libft.h" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="809" />
+    <option name="y" value="56" />
+    <option name="width" value="1442" />
+    <option name="height" value="1248" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Libft_copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Libft copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Non-Source Files'; set:Project Non-Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$NonSourceFilesScope">
+          <expand>
+            <path>
+              <item name="Libft_copy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Libft_copy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
+          <expand>
+            <path>
+              <item name="Libft_copy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Libft_copy" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Libft_copy">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Libft_copy" TARGET_NAME="Libft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Libft_copy" RUN_TARGET_NAME="Libft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Libft_copy" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Libft_copy" TARGET_NAME="Libft_copy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Libft_copy" RUN_TARGET_NAME="Libft_copy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Libft_copy" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd3d8d3-524f-4189-9ff1-7ee4c080134b" name="Default Changelist" comment="" />
+      <created>1544279748021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544279748021</updated>
+      <workItem from="1544279749595" duration="4617000" />
+      <workItem from="1544285200892" duration="948000" />
+      <workItem from="1544347494534" duration="5545000" />
+      <workItem from="1544357169302" duration="132000" />
+      <workItem from="1544357341153" duration="31000" />
+      <workItem from="1544357407964" duration="741000" />
+      <workItem from="1544361186721" duration="5387000" />
+      <workItem from="1544429610893" duration="2655000" />
+      <workItem from="1544432777039" duration="3290000" />
+      <workItem from="1544438135311" duration="3154000" />
+      <workItem from="1544442452445" duration="609000" />
+      <workItem from="1544446982492" duration="12496000" />
+      <workItem from="1544513689702" duration="9541000" />
+      <workItem from="1544524648604" duration="9830000" />
+      <workItem from="1544536382177" duration="11141000" />
+      <workItem from="1544686531960" duration="9805000" />
+      <workItem from="1544702273495" duration="9340000" />
+      <workItem from="1544713684020" duration="3188000" />
+      <workItem from="1544773856584" duration="6182000" />
+      <workItem from="1544780673985" duration="12000" />
+      <workItem from="1544780705675" duration="5027000" />
+      <workItem from="1544786397303" duration="2884000" />
+      <workItem from="1544791457224" duration="8918000" />
+      <workItem from="1544871599399" duration="11316000" />
+      <workItem from="1545042450819" duration="173000" />
+      <workItem from="1545042664029" duration="17000" />
+      <workItem from="1545042791785" duration="342000" />
+      <workItem from="1545043351405" duration="133000" />
+      <workItem from="1545043562379" duration="764000" />
+      <workItem from="1545044423864" duration="217000" />
+      <workItem from="1545044796068" duration="78000" />
+      <workItem from="1545044885176" duration="966000" />
+      <workItem from="1545048782137" duration="1909000" />
+      <workItem from="1545051576646" duration="1300000" />
+      <workItem from="1545056359703" duration="9415000" />
+      <workItem from="1545116863739" duration="9564000" />
+      <workItem from="1545129459434" duration="5880000" />
+      <workItem from="1545136039224" duration="1325000" />
+      <workItem from="1545138795121" duration="11762000" />
+      <workItem from="1545203668026" duration="3809000" />
+      <workItem from="1545209327043" duration="2151000" />
+      <workItem from="1545213384674" duration="3896000" />
+      <workItem from="1545232814311" duration="4189000" />
+      <workItem from="1545386490368" duration="592000" />
+      <workItem from="1545387508409" duration="2796000" />
+      <workItem from="1545391267409" duration="6690000" />
+      <workItem from="1545402135571" duration="417000" />
+      <workItem from="1545403130231" duration="4399000" />
+      <workItem from="1545408309212" duration="2069000" />
+      <workItem from="1545486155294" duration="45000" />
+      <workItem from="1545486248494" duration="9897000" />
+      <workItem from="1545637043952" duration="806000" />
+      <workItem from="1545640232451" duration="10106000" />
+      <workItem from="1545657157957" duration="6710000" />
+      <workItem from="1545733448157" duration="1154000" />
+      <workItem from="1545740735123" duration="7329000" />
+      <workItem from="1545749473877" duration="149000" />
+      <workItem from="1545810970476" duration="6985000" />
+      <workItem from="1545820131662" duration="9806000" />
+      <workItem from="1545831952912" duration="3190000" />
+      <workItem from="1545896981511" duration="280000" />
+      <workItem from="1545897734825" duration="867000" />
+      <workItem from="1545898923717" duration="64000" />
+      <workItem from="1545899032301" duration="3454000" />
+      <workItem from="1545903650719" duration="5090000" />
+      <workItem from="1545912627826" duration="6980000" />
+      <workItem from="1545920336314" duration="7545000" />
+      <workItem from="1545981614534" duration="4169000" />
+      <workItem from="1545986962385" duration="4797000" />
+      <workItem from="1545996792322" duration="8210000" />
+      <workItem from="1546768183256" duration="148000" />
+      <workItem from="1546768342827" duration="239000" />
+      <workItem from="1546768652602" duration="4245000" />
+      <workItem from="1546774159540" duration="772000" />
+      <workItem from="1546775656824" duration="456000" />
+      <workItem from="1546777730135" duration="140000" />
+      <workItem from="1546780175846" duration="117000" />
+      <workItem from="1546781184736" duration="1608000" />
+      <workItem from="1546783780884" duration="730000" />
+      <workItem from="1546786474449" duration="3172000" />
+      <workItem from="1547014830869" duration="537000" />
+      <workItem from="1547016227663" duration="213000" />
+      <workItem from="1547021858050" duration="3319000" />
+      <workItem from="1547028813063" duration="7203000" />
+      <workItem from="1547046605681" duration="3449000" />
+      <workItem from="1547106581861" duration="3182000" />
+      <workItem from="1547122845028" duration="134000" />
+      <workItem from="1547126543863" duration="915000" />
+      <workItem from="1547127691529" duration="873000" />
+      <workItem from="1547128615930" duration="7688000" />
+      <workItem from="1547454262025" duration="18000" />
+      <workItem from="1547454309977" duration="2495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="340928000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="809" y="56" width="1442" height="1248" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8254386" visible="true" weight="0.2242857" />
+      <window_info id="Structure" order="1" sideWeight="0.1745614" side_tool="true" weight="0.21857142" />
+      <window_info id="Favorites" order="2" sideWeight="0.1745614" side_tool="true" weight="0.21857142" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16052632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2709059" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.327193" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3114035" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3263158" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.327193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32935026" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>nb * 10</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(nb * 10) / 10</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nb != (nb * 10) / 10)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ft_memcmp.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_memmove.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_isalpha.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_itoa.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Libft/get_next_line.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strequ.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_putchar.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/time.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_memcpy.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_memset.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="470" column="9" selection-start-line="470" selection-start-column="9" selection-end-line="470" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strsplit.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="35" lean-forward="true" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strlcat.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstadd.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strlen.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lib_check/ft_lstmap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lib_check/ft_lstnew.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstnew.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstmap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstiter.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.Trash/ft_swap.c" />
+    <entry file="file:///System/Library/Frameworks/Carbon.framework/Headers/Carbon.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strnew.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strcpy.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strjoin.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="243" column="81" selection-start-line="243" selection-start-column="81" selection-end-line="243" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/moulitest_42projects/get_next_line_tests/utils.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/maintest/getnextline/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/moulitest_42projects/get_next_line_tests/project.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/moulitest_42projects/get_next_line_tests/tests/01_test_simple.spec.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/moulitest_42projects/get_next_line_tests/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/srcs/gnl/gnl1_2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstdel.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_memdel.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_memalloc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auteur">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_strdup.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_bzero.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/42FileChecker/srcs/gnl/gnl1_1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="44" column="15" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="142" column="9" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_next_line.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../get_next_line/get_next_line.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_atoi.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/test (1).c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103666">
+          <caret line="4369" selection-start-line="4369" selection-end-line="4369" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Libft/libft.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft_lstdelone.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libft.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4551" column="22" selection-start-line="4551" selection-start-column="22" selection-end-line="4551" selection-end-column="22" />
+          <folding>
+            <element signature="e#892#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17420213" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
